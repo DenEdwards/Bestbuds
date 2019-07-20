@@ -7,6 +7,10 @@ p {
   color: #8f8f8f;
 }
 
+a:link {
+  text-decoration: none;
+}
+
 /****ID SELECTORS****/
 /* Feature Section */
 #features {
